@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: SavingsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: When it comes to saving money, what is a good rule of thumb?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - put aside money for savings each month
+    - putting anything you can't afford on your credit card
+    - choose the savings account with the lowest interest rate
+    correctAns: put aside money for savings each month
+  - questionInfo: 'The purpose of a budget is to :'
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - stop you from spending too much
+    - help you plan how you will spend the money you earn or receive
+    - increase the balance of your savings account
+    correctAns: help you plan how you will spend the money you earn or receive
+  - questionInfo: Which of the following accounts will give you the LEAST access
+      to your money?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Certificate of deposit
+    - simple savings account
+    - 'checking account '
+    correctAns: Certificate of deposit
+  - questionInfo: You are opening a savings account that earns compound interest.
+      Which compounding frequency will earn  you the most money?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - compounding daily
+    - compounding 4 times a year
+    - compounding 1 time a year
+    correctAns: compounding daily
